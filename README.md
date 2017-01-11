@@ -4,7 +4,7 @@ bootstrap.
 
 Actually, it's meant to show that the pagination portion of `flask_bootstrap`
 up to `3.3.7.1.dev1` (what I'm testing this against) with jinja2 >= 2.9.3 is
-working working.
+not working.
 
 This project is built using python3.
 
